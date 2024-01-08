@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #011140 url("../img/bg.jpg") top right no-repeat;
+  background: #1d1251 url("../img/bg.jpg") top right no-repeat;
   background-size: contain;
   left: 0;
   right: 0;
@@ -134,7 +134,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   top: 0;
   right: 0;
-  background: #011149;
+  background: #1d1251;
 }
 #header.header-top .social-links, #header.header-top h2 {
   display: none;
